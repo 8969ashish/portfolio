@@ -1,0 +1,121 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Raleway:wght@500;700;800&family=Roboto:wght@300;400;900&display=swap');
+
+
+
+.skill_main{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-image: url(C:\Users\ASHISH KUMAR\OneDrive\Desktop\portfoliyo\src\image\tech.gif);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+}
+.skillmain1{
+    color: aliceblue;
+    margin-top: 6%;
+    width: 100%;
+    
+   
+}
+.my_skill{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    
+     
+}
+.what{
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    color: red;
+    
+}
+.left_right{
+    display: flex;
+
+}
+.skill_left{
+   width: 50%; 
+   height: 77vh;
+}
+.skill_right{
+    width: 50%;  
+  
+    display: flex;
+
+}
+.my_skill_head{
+    /* display: flex; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+
+}
+.creative{
+margin-left: 10%;
+font-size: 40px;
+font-family: 'Raleway', sans-serif;
+color: aqua;
+}
+.intro_skill{
+    margin-left: 10%;
+   font-size: 25px;
+   margin-top: 20px;
+   font-family: 'Raleway', sans-serif;
+}
+.read_more{
+    margin: 40px 0px 0px 90px;
+    font-size: 30px;
+    height: 6.5%;
+    background-color:aqua;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+}
+.read_more:hover{
+    color: aliceblue;
+    background-color: red;
+
+}
+/* .line */
+/* {
+    height: 5px;
+    width: 500px;
+    color: antiquewhite;
+    background-color: rgb(2, 1, 1);
+    position: absolute;
+    margin-top: 100px;
+    animation-name:ashish ;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+   margin-left:600px;  */
+
+
+/* @keyframes ashish {
+    0% {
+        width: 0px;
+        left: 0px;
+    }
+    100%
+    {
+        width: 250px;
+      left: 5px;
+        background-color: rgb(0, 38, 255);
+
+    } */
+
+
+/* /* .sec
+{
+    height: 5px;
+    width: 100px;
+    background-color: white;
+    position: absolute;
+} */
